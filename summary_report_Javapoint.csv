@@ -1,0 +1,30 @@
+1686159379154,1632,HTTP Request,200,OK,Rokomari 1-1,text,true,,44799,272,2,2,https://www.javatpoint.com/jmeter-tutorial,863,0,433
+1686159379154,876,HTTP Request-0,301,Moved Permanently,Rokomari 1-1,text,true,,992,134,2,2,https://javatpoint.com/jmeter-tutorial,863,0,433
+1686159380032,754,HTTP Request-1,200,OK,Rokomari 1-1,text,true,,43807,138,2,2,https://www.javatpoint.com/jmeter-tutorial,700,0,149
+1686159380163,1304,HTTP Request,200,OK,Rokomari 1-2,text,true,,44799,272,2,2,https://www.javatpoint.com/jmeter-tutorial,576,0,138
+1686159380163,576,HTTP Request-0,301,Moved Permanently,Rokomari 1-2,text,true,,992,134,2,2,https://javatpoint.com/jmeter-tutorial,576,0,138
+1686159380739,728,HTTP Request-1,200,OK,Rokomari 1-2,text,true,,43807,138,2,2,https://www.javatpoint.com/jmeter-tutorial,710,0,151
+1686159381161,2255,HTTP Request,200,OK,Rokomari 1-3,text,true,,44794,272,3,3,https://www.javatpoint.com/jmeter-tutorial,643,0,140
+1686159381161,643,HTTP Request-0,301,Moved Permanently,Rokomari 1-3,text,true,,993,134,3,3,https://javatpoint.com/jmeter-tutorial,643,0,140
+1686159381805,1611,HTTP Request-1,200,OK,Rokomari 1-3,text,true,,43801,138,3,3,https://www.javatpoint.com/jmeter-tutorial,758,0,200
+1686159382162,1438,HTTP Request,200,OK,Rokomari 1-4,text,true,,44801,272,2,2,https://www.javatpoint.com/jmeter-tutorial,589,0,156
+1686159382162,599,HTTP Request-0,301,Moved Permanently,Rokomari 1-4,text,true,,992,134,2,2,https://javatpoint.com/jmeter-tutorial,589,0,156
+1686159382763,837,HTTP Request-1,200,OK,Rokomari 1-4,text,true,,43809,138,2,2,https://www.javatpoint.com/jmeter-tutorial,721,0,152
+1686159383161,1424,HTTP Request,200,OK,Rokomari 1-5,text,true,,44793,272,2,2,https://www.javatpoint.com/jmeter-tutorial,587,0,150
+1686159383161,600,HTTP Request-0,301,Moved Permanently,Rokomari 1-5,text,true,,988,134,2,2,https://javatpoint.com/jmeter-tutorial,587,0,150
+1686159383762,823,HTTP Request-1,200,OK,Rokomari 1-5,text,true,,43805,138,2,2,https://www.javatpoint.com/jmeter-tutorial,709,0,149
+1686159384162,1914,HTTP Request,200,OK,Rokomari 1-6,text,true,,44795,272,2,2,https://www.javatpoint.com/jmeter-tutorial,1143,0,217
+1686159384162,1144,HTTP Request-0,301,Moved Permanently,Rokomari 1-6,text,true,,990,134,2,2,https://javatpoint.com/jmeter-tutorial,1143,0,217
+1686159385308,768,HTTP Request-1,200,OK,Rokomari 1-6,text,true,,43805,138,2,2,https://www.javatpoint.com/jmeter-tutorial,695,0,131
+1686159385161,1656,HTTP Request,200,OK,Rokomari 1-7,text,true,,44803,272,2,2,https://www.javatpoint.com/jmeter-tutorial,598,0,172
+1686159385161,608,HTTP Request-0,301,Moved Permanently,Rokomari 1-7,text,true,,992,134,2,2,https://javatpoint.com/jmeter-tutorial,598,0,172
+1686159385770,1047,HTTP Request-1,200,OK,Rokomari 1-7,text,true,,43811,138,2,2,https://www.javatpoint.com/jmeter-tutorial,701,0,150
+1686159386161,1423,HTTP Request,200,OK,Rokomari 1-8,text,true,,44801,272,2,2,https://www.javatpoint.com/jmeter-tutorial,642,0,150
+1686159386161,642,HTTP Request-0,301,Moved Permanently,Rokomari 1-8,text,true,,998,134,2,2,https://javatpoint.com/jmeter-tutorial,642,0,150
+1686159386805,779,HTTP Request-1,200,OK,Rokomari 1-8,text,true,,43803,138,2,2,https://www.javatpoint.com/jmeter-tutorial,680,0,128
+1686159387160,1399,HTTP Request,200,OK,Rokomari 1-9,text,true,,44789,272,2,2,https://www.javatpoint.com/jmeter-tutorial,576,0,151
+1686159387160,589,HTTP Request-0,301,Moved Permanently,Rokomari 1-9,text,true,,986,134,2,2,https://javatpoint.com/jmeter-tutorial,576,0,151
+1686159387750,809,HTTP Request-1,200,OK,Rokomari 1-9,text,true,,43803,138,2,2,https://www.javatpoint.com/jmeter-tutorial,687,0,129
+1686159388161,1348,HTTP Request,200,OK,Rokomari 1-10,text,true,,44783,272,1,1,https://www.javatpoint.com/jmeter-tutorial,581,0,149
+1686159388161,592,HTTP Request-0,301,Moved Permanently,Rokomari 1-10,text,true,,984,134,1,1,https://javatpoint.com/jmeter-tutorial,581,0,149
+1686159388755,754,HTTP Request-1,200,OK,Rokomari 1-10,text,true,,43799,138,1,1,https://www.javatpoint.com/jmeter-tutorial,689,0,140
